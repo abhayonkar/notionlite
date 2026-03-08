@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /opt/notionlite
+export PYTHONPATH=/opt/notionlite:$PYTHONPATH
+python3 main.py
