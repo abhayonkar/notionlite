@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=NotionLite
+Exec=/usr/bin/notionlite
+Icon=/usr/share/icons/notionlite.png
+Type=Application
+Categories=Utility;
+Terminal=false
